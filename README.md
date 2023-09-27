@@ -38,7 +38,7 @@ Category
 Category: Represents a category with properties Category and ID.
 Comments
 Comments: Represents a comment with properties ProductID, CustomerID, and CommentText.
-Orders
+Orders  
 Orders: Represents an order with properties CustomerID, OrderDate, Status, ProductID, and Quantity.
 Product
 Product: Represents a product with properties Name, Description, Price, and CategoryID.
